@@ -1,0 +1,107 @@
+.principal{
+    display: flex;
+    flex-wrap: wrap;
+}
+.contenedor1{
+    background-color: blue;
+    width: 380px;
+    height: 550px;
+    padding-top: 20px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+
+}
+.fila1{
+    display: flex;
+}
+.caja1{
+    background-color: cadetblue;
+    width: 110px;
+    height: 110px;
+    margin-left: 10px;
+}
+
+.caja2{
+    background-color: cadetblue;
+    width: 360px;
+    height: 80px;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.fila2{
+    display: flex;
+}
+
+.caja3{
+    background-color: cadetblue;
+    width: 110px;
+    height: 110px;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+.contenedor2{
+    background-color: orangered;
+    width: 380px;
+    height: 570px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
+.cara1{
+    background-color: orange;
+    width: 360px;
+    height: 75px;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+.contenedor3{
+    background-color: green;
+    width: 380px;
+    height: 550px;
+    margin-left: 15px;
+    padding-top: 15px;
+    margin-bottom: 15px;
+}
+
+.fil1{
+    display: flex;
+}
+.frente1{
+    background-color: cadetblue;
+    width: 110px;
+    height: 110px;
+    margin-left: 10px;
+}
+.fil2{
+    display: flex;
+}
+.frente2{
+    background-color: cadetblue;
+    width: 110px;
+    height: 110px;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.fil3{
+    display: flex;
+}
+.frente3{
+    background-color: cadetblue;
+    width: 110px;
+    height: 110px;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.fil4{
+    display: flex;
+}
+.frente4{
+    background-color: cadetblue;
+    width: 110px;
+    height: 110px;
+    margin-left: 10px;
+    margin-top: 15px;
+}
